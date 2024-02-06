@@ -1,2 +1,2 @@
 IPYNB rendered python package.
-This is MLOPS project so praticing the key.
+This is MLOPS project so practicing the key concepts.
